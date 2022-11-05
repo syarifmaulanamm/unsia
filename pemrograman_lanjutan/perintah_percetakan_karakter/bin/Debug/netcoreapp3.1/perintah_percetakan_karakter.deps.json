@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "perintah_percetakan_karakter/1.0.0": {
+        "runtime": {
+          "perintah_percetakan_karakter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "perintah_percetakan_karakter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

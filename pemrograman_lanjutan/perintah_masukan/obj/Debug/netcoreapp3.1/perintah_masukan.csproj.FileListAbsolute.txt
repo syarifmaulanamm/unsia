@@ -1,0 +1,14 @@
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/bin/Debug/netcoreapp3.1/perintah_masukan
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/bin/Debug/netcoreapp3.1/perintah_masukan.deps.json
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/bin/Debug/netcoreapp3.1/perintah_masukan.runtimeconfig.json
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/bin/Debug/netcoreapp3.1/perintah_masukan.runtimeconfig.dev.json
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/bin/Debug/netcoreapp3.1/perintah_masukan.dll
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/bin/Debug/netcoreapp3.1/perintah_masukan.pdb
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/obj/Debug/netcoreapp3.1/perintah_masukan.csproj.AssemblyReference.cache
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/obj/Debug/netcoreapp3.1/perintah_masukan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/obj/Debug/netcoreapp3.1/perintah_masukan.AssemblyInfoInputs.cache
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/obj/Debug/netcoreapp3.1/perintah_masukan.AssemblyInfo.cs
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/obj/Debug/netcoreapp3.1/perintah_masukan.csproj.CoreCompileInputs.cache
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/obj/Debug/netcoreapp3.1/perintah_masukan.dll
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/obj/Debug/netcoreapp3.1/perintah_masukan.pdb
+/Users/syarifmaulana/Projects/perintah_percetakan_karakter/perintah_masukan/obj/Debug/netcoreapp3.1/perintah_masukan.genruntimeconfig.cache

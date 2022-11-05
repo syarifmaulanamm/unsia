@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Perulangan_Dengan_For/1.0.0": {
+        "runtime": {
+          "Perulangan_Dengan_For.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perulangan_Dengan_For/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
